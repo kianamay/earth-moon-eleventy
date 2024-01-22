@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(255, 254, 242);
+    border: 30px;
+    padding: 5px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+p{
+    padding: 0 50px 0 50px;
+}
+
+.planets{
+    display: flex;
+}
+ 
+img{
+    max-width: 80%;
+}
+
+img:hover{
+    background-color:rgb(206, 204, 183);
+}
