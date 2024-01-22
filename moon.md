@@ -1,0 +1,2 @@
+# Moon
+The moon, Earth's only natural satellite, is a barren and airless world, lacking the life-sustaining conditions found on our home planet. Its surface is marked by craters, mountains, and vast plains, and it plays a crucial role in Earth's tidal processes.
